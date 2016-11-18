@@ -39,7 +39,7 @@ rm -rf $OUTPUT_PATH
 mkdir $OUTPUT_PATH
 
 # Concat files
-cat "$PACKAGES_PATH/reactive-vars.js" >> $OUTPUT_PATH/$NAME.bundle.js
+cat "$PACKAGES_PATH/reactive-dict.js" >> $OUTPUT_PATH/$NAME.bundle.js
 cat "$PACKAGES_PATH/session.js" >> $OUTPUT_PATH/$NAME.bundle.js
 cat "$PACKAGES_PATH/global-imports.js" >> $OUTPUT_PATH/$NAME.bundle.js
 
