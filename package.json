@@ -1,0 +1,21 @@
+{
+  "name": "session-client-side",
+  "version": "1.0.0",
+  "description": "Meteor Session package for projects that use meteor-client-side rather than a real Meteor CLI porject",
+  "main": "dist/session-client-side.bundle.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "session-client-side"
+  },
+  "keywords": [
+    "session",
+    "meteor",
+    "client",
+    "side"
+  ],
+  "author": "Awli",
+  "license": "MIT"
+}
