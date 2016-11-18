@@ -1,4 +1,4 @@
-# accounts-base-client-side
+# session-client-side
 
 Use Meteor's [session] package with [meteor-client-side][meteor-client-side].
 
